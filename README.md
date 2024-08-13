@@ -31,3 +31,6 @@ grid_layout.addWidget(button1, 0, 1)
 overlay.show()
 app.exec()
 ```
+
+## Contributing
+Contributions are welcome. Please fork the repository and submit a pull request.

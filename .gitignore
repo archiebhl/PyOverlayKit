@@ -1,2 +1,5 @@
 __pycache__/
 venv/
+PyOverlayKit.egg-info/
+dist/
+build/
