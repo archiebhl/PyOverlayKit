@@ -1,4 +1,4 @@
-# My Overlay Package
+# PyOverlayKit
 
 This package provides a customizable overlay for PyQt applications, allowing you to create always-on-top windows with adjustable background colors, transparency, and layouts. Specifically, this package allows these overlays to stay on top of full-screened applications.
 
