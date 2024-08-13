@@ -5,7 +5,8 @@ This package provides a customizable overlay for PyQt applications, allowing you
 ## Installation
 
 You can install the package using pip:
-`pip install my_overlay_package`
+
+`pip install PyOverlayKit`
 
 ## Example Usage
 ```
