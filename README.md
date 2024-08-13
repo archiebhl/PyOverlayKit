@@ -11,7 +11,7 @@ You can install the package using pip:
 ## Example Usage
 ```
 from PyQt6.QtWidgets import QApplication, QLabel, QPushButton, QGridLayout
-from my_overlay_package.overlay import Overlay
+from PyOverlayKit.overlay import Overlay
 from PyQt6.QtGui import QColor
 
 app = QApplication([])
